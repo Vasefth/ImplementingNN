@@ -28,8 +28,9 @@ The dataset life_expectancy.csv incorporates several indicators for all countrie
 ## Installation
 
 First, ensure that Python and pip are installed on your machine. Then, install the required packages using pip:
-
+```bash
 pip install pandas scikit-learn tensorflow
+```
 
 ## Usage
 
